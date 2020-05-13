@@ -104,7 +104,7 @@ For example, if you want to add commit message of *I'm in my house trapping*, th
 
 4. After successful commit, use the command `git push` to push your code into the repository.
 
-You may run into some trouble using `git push`, this may be due to your origin of repository not set up correctly. There should be a follow up message in the command line recommending how you should proceed. Follow that recommendation and if it still doesn't work, search Google. There are a lot of useful help in Stack Overflow!
+You may run into some trouble using `git push`, this may be due to your origin of repository not set up correctly. There should be a follow up message in the command line recommending how you should proceed. Follow that recommendation and if it still doesn't work, search Google. There are a lot of useful help in Stack Overflow! However, after setting up your origin once, you should be able to use with `git push` after that.
 
 ## Merge help
 - Merging in general should be done by who has the authority and access
@@ -121,6 +121,11 @@ Bear in mind that not everyone's setup is same as your's. Your issue can be uniq
 
 ### Using GitHub Desktop Client
 - If you can't be bothered to use the CLI, you can download [GitHub Desktop](https://desktop.github.com/) 
+
+### Useful tools/software
+- One of the best code editor/folder viewer is Microsoft Visual Studio Code [(VSCode)](https://code.visualstudio.com/), which is free and versatile!
+
+- If you feel fancy and want to play around with terminal more, you can download [iTerm2](https://www.iterm2.com/). You can change your settings easily!
 
 ### Was my explanation hard to follow? Want to learn more?
 - If my explanation was hard to follow or you want to learn more tricks and skills for Git, you can visit [Codecademy's Git Course](https://www.codecademy.com/learn/learn-git)!
